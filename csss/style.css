@@ -11,7 +11,7 @@ padding: 5px;
 background-color: #cae8ca;
 border: 2px solid #4CAF50;
 } */
-
+#more {display: none;}
 .dropdown-menu .hide {
     display: none;
 }
@@ -232,5 +232,5 @@ padding: 10px 70px;
 .comboitems{
 	font-size: large;
 }
-
+#more {display: none;}
 
